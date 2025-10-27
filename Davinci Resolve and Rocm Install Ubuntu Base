@@ -3,10 +3,10 @@ sudo apt install libfuse2t64
 Donwload Davinci Resolve and extract it the open terminal from your file manager in the location of davinci resolve and run this command
 SKIP_PACKAGE_CHECK=1 ./DaVinci_Resolve_20.2.2_Linux.run
 
-go to folder /opt/resolve/libs and delete so type this command under in terminal
+type this command under in terminal:
 cd /opt/resolve/libs
 
-Run these 3 commands in terminal
+Run these 3 commands in terminal one by one:
 
 sudo rm libglib-2.0.so*
 sudo rm libgio-2.0.so*
