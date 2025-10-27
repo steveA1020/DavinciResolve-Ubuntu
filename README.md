@@ -1,4 +1,4 @@
-Just click on the Link Above and you will see the procedure how to install winboat
+Just click on the Link Above and you will see the procedure how to install Davinci Resolve and Rocm
 If you need to see the video here is the Link:
 https://youtu.be/-X_UViXGq78
 
