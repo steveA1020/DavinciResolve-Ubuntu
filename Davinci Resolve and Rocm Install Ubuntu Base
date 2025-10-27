@@ -45,6 +45,8 @@ where it says your name just remove and put your user name
 
 sudo usermod -a -G video,render yourname
 
+and Reboot
+
 If you need to watch the video here is the link:
 https://youtu.be/-X_UViXGq78
 
